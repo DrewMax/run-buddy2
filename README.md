@@ -10,5 +10,7 @@ A website that offers fitness training services
 ## Website
 https://DrewMaxwell.github.io/run.buddy2/
 
-## Ontribution
+## Contribution
 Made by Drew (alien face)
+
+### 2023 Run buddy 2
